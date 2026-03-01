@@ -1,0 +1,19 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>icons/brush.png</file>
+        <file>icons/bucket.png</file>
+        <file>icons/eraser.png</file>
+        <file>icons/freehand.png</file>
+        <file>icons/hexagon.png</file>
+        <file>icons/line.png</file>
+        <file>icons/move.png</file>
+        <file>icons/circle.png</file>
+        <file>icons/rectangle.png</file>
+        <file>icons/text.png</file>
+        <file>icons/RoundedRect.png</file>
+        <file>icons/resize.png</file>
+        <file>icons/strokechange.png</file>
+        <file>icons/strokesize.png</file>
+    </qresource>
+</RCC>
